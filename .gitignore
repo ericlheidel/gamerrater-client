@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+GameForm.jsx
+GameForm2.jsx
+GameForm3.jsx
